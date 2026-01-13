@@ -1,2 +1,2 @@
 # sho-bond
-evaluation program for Felo subtitel for sho-bond
+evaluation tool for Felo subtitel for sho-bond
